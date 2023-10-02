@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat Demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="chat_demo_is_need_to_verify_your_account_what_is_my_number">Chat demo is need to verify your account, <b><font color="#014343">What is my number?</font></b></string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="confirm_otp">Confirm OTP</string>
+    <string name="user_info">User Info</string>
+    <string name="nick_name">Nick Name</string>
+    <string name="save">Save</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
